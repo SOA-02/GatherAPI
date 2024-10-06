@@ -7,3 +7,5 @@ gem 'httparty'
 
 # For loading environment variables from a .env file (similar to dotenv)
 gem 'dotenv'
+
+gem 'json'
