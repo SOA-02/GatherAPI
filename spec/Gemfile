@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+# HTTP client library for making requests (similar to axios)
+gem 'httparty'
+
+# For loading environment variables from a .env file (similar to dotenv)
+gem 'dotenv'
